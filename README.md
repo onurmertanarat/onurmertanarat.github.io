@@ -12,7 +12,7 @@ Welcome to my **Personal Web Portfolio**! 🚀 This is a personal web applicatio
 
 ## 🚀 Live Demo
 Check out the live version:
-👉 [https://onurmertanarat.github.io/my-portfolio](https://onurmertanarat.github.io/my-portfolio)
+👉 [https://onurmertanarat.github.io/](https://onurmertanarat.github.io/)
 
 ---
 
@@ -40,5 +40,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 If you want to reach out, you can contact me via:
 
-📧 Email: anaratonurmert@yandex.com
+📧 Email: anaratonurmert@yandex.com <br />
 🔗 LinkedIn: [https://www.linkedin.com/in/onurmertanarat/](https://www.linkedin.com/in/onurmertanarat/)
