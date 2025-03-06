@@ -17,17 +17,12 @@ const Home = () => {
                 </div>
                 <div className="about-text">
                     <h3>About Me</h3>
-                    <p>
-                        I started my coding journey in high school with C++ and VB.NET,
-                        scripting for games. Over time, I expanded my expertise to C#, Python,
-                        and Linux, diving into system automation and backend development.
-                        Currently, I focus on C# and Node.js while experimenting with Docker and
-                        cloud technologies to build scalable and efficient solutions.
-                    </p>
+                    <p>Hi! I'm a software developer with a background in mechatronics engineering. My journey started with C++ and VB.NET for game scripting, and over time, I specialized in backend development using Python, C#, and Node.js.</p>
+                    <p>I have experience in Linux system administration, automation, and web application development with Django and ASP.NET Core. I’m also passionate about DevOps and cloud technologies like Docker. Currently, I’m focused on advancing my expertise in modern backend technologies and DevOps practices.</p>
                 </div>
                 <div className="download-cv">
                     <a
-                        href="./assets/Onur_Mert_Anarat_EN.pdf"
+                        href="./assets/ONUR MERT ANARAT (EN).pdf"
                         download
                         className="cv-button"
                     >
