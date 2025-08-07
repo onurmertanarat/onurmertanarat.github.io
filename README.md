@@ -1,44 +1,37 @@
-# 📌 My Portfolio
+# My Portfolio
 
-Welcome to my **Personal Web Portfolio**! 🚀 This is a personal web application built with **React.js** and deployed on **GitHub Pages**.
+This is a personal web portfolio built using **React.js**, showcasing my background, skills, and selected projects. The application is deployed via **GitHub Pages**.
 
-## 🌟 Features
+## Features
 
-- 🔥 **Modern UI** - Built with React.js and CSS for a clean and smooth user experience.
-- 📁 **Projects Showcase** - Displays my personal and professional projects.
-- 📜 **Resume Download** - Users can download my CV directly.
-- 🖼️ **Dynamic Skills & Icons** - Displays my skills dynamically using custom icons.
-- 🌐 **Responsive Design** - Optimized for both mobile and desktop for a seamless user experience.
+- Clean and modern UI
+- Project showcase section with descriptions
+- Resume download option
+- Dynamic skill display with icons
+- Responsive design for mobile and desktop devices
 
-## 🚀 Live Demo
-Check out the live version:
-👉 [https://onurmertanarat.github.io/](https://onurmertanarat.github.io/)
+## Live Demo
 
----
+You can view the live version here:  
+[https://onurmertanarat.github.io/](https://onurmertanarat.github.io/)
 
-## 📌 Technologies Used
+## Technologies
 
-- ⚛️ **React.js** - JavaScript library for building UI
-- 🎨 **CSS** - Styling
-- 🚀 **GitHub Pages** - Deployment
+- **React.js** – Frontend development
+- **CSS** – Styling
+- **GitHub Pages** – Deployment
 
----
+## Contributing
 
-## 🤝 Contributing
+Contributions, suggestions, or bug reports are welcome. Please open an issue or create a pull request.
 
-Feel free to contribute! If you find a bug or have a feature request, open an issue.
+## License
 
----
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-## 📜 License
+## Contact
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+For any inquiries, feel free to reach out:
 
----
-
-## 📬 Contact
-
-If you want to reach out, you can contact me via:
-
-📧 Email: anaratonurmert@yandex.com <br />
-🔗 LinkedIn: [https://www.linkedin.com/in/onurmertanarat/](https://www.linkedin.com/in/onurmertanarat/)
+- **Email:** anaratonurmert@yandex.com  
+- **LinkedIn:** [linkedin.com/in/onurmertanarat](https://www.linkedin.com/in/onurmertanarat/)
