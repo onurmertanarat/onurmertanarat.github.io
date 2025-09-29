@@ -22,7 +22,7 @@ const Home = () => {
             </div>
             <div className="home-actions">
                 <a
-                    href="/assets/ONUR-MERT-ANARAT-CV-EN.pdf"
+                    href="/assets/CV_OnurMertAnarat_EN.pdf"
                     download
                     className="button-secondary"
                 >
